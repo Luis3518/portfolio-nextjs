@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Plan Sarmiento",
+      "role": "Pasante",
+      "from": "Julio 2011",
+      "to": "Diciembre 2011",
+      "logo": "plansarmiento.png"
+    },
+    {
+      "name": "Near informatica",
+      "role": "Sysadmin - Integrador de sistemas",
+      "from": "Diciembre 2011",
+      "to": "Febrero 2013",
+      "logo": "near.png"
+    },
+    {
+      "name": "",
+      "role": "Sysadmin - Técnico",
+      "from": "Febrero 2012",
+      "to": "Marzo 2018",
+      "logo": "conig.png"
+    },
+    {
+      "name": "",
+      "role": "Desarrollador",
+      "from": "Agosto 2021",
+      "to": "Actualidad",
+      "logo": "vuce.png"
+    },
+    {
+      "name": "",
+      "role": "Sysadmin - Técnico - Desarrollador",
+      "from": "Marzo 2020",
+      "to": "Actualidad",
+      "logo": "lubrirafael.png"
+    },
+    {
+      "name": "Escuela tecnica 35",
+      "role": "Sysadmin - Técnico - Docente",
+      "from": "Abril 2014",
+      "to": "Actualidad",
+      "logo": "et35.png"
+    }
+  ]
+  
