@@ -4,6 +4,10 @@ import Description from "../components/description"
 import Experience from "../components/experience"
 import Proyectos from "../components/proyectos"
 import Articulos from "../components/articulos"
+import Academico from "../components/academico"
+import Videos from "../components/videos"
+
+
 
 
 import Navbar from "../components/navbar"
@@ -25,15 +29,22 @@ export default function Home() {
       <Scroll.Element name="description">
         <Description />
       </Scroll.Element>
+      <Scroll.Element name="academico">
+        <Academico />
+      </Scroll.Element>
+      <Scroll.Element name="articulos">
+        <Articulos />
+      </Scroll.Element>
       <Scroll.Element name="experience">
         <Experience />
       </Scroll.Element>
       <Scroll.Element name="proyectos">
         <Proyectos />
       </Scroll.Element>
-      <Scroll.Element name="articulos">
-        <Articulos />
+      <Scroll.Element name="videos">
+        <Videos />
       </Scroll.Element>
+
     </>
   )
 }

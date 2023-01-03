@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Escuela tecnica 35",
+      "role": "Pasante",
+      "from": "Julio 2011",
+      "to": "Diciembre 2011",
+      "logo": "plansarmiento.png"
+    },
+    {
+      "name": "CCNA - fundacion proydesa",
+      "role": "Sysadmin - Integrador de sistemas",
+      "from": "Diciembre 2011",
+      "to": "Febrero 2013",
+      "logo": "near.png"
+    },
+    {
+      "name": "Profesorado de informatica",
+      "role": "Sysadmin - Técnico",
+      "from": "Febrero 2012",
+      "to": "Marzo 2018",
+      "logo": "conig.png"
+    },
+    {
+      "name": "Diplomatura seguridad de la informacion",
+      "role": "Desarrollador",
+      "from": "Agosto 2021",
+      "to": "Actualidad",
+      "logo": "vuce.png"
+    },
+    {
+      "name": "Licenciatura en tecnologias de la información",
+      "role": "Sysadmin - Técnico - Desarrollador",
+      "from": "Marzo 2020",
+      "to": "Actualidad",
+      "logo": "lubrirafael.png"
+    }
+  ]
+  

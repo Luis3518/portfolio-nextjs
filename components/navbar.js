@@ -17,10 +17,12 @@ function Navbar(props) {
         {props.samePage ? (
           <React.Fragment>
             <li onClick={() => handleClick("description")}>Sobre mi</li>
-            <li onClick={() => handleClick("experience")}>Experiencia</li>
-            <h2>LR</h2>
-            <li onClick={() => handleClick("proyectos")}>Proyectos</li>
+            <li onClick={() => handleClick("academico")}>Acedemico</li>
             <li onClick={() => handleClick("articulos")}>Articulos</li>
+            <h2>LR</h2>
+            <li onClick={() => handleClick("experience")}>Experiencia</li>
+            <li onClick={() => handleClick("proyectos")}>Proyectos</li>
+            <li onClick={() => handleClick("videos")}>Videos</li>
           </React.Fragment>
         ) : (
           <React.Fragment>
