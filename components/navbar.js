@@ -19,8 +19,8 @@ function Navbar(props) {
             <li onClick={() => handleClick("description")}>Sobre mi</li>
             <li onClick={() => handleClick("experience")}>Experiencia</li>
             <h2>LR</h2>
-            <li onClick={() => handleClick("articles")}>Proyectos</li>
-            <li onClick={() => handleClick("talks")}>Videos</li>
+            <li onClick={() => handleClick("proyectos")}>Proyectos</li>
+            <li onClick={() => handleClick("articulos")}>Articulos</li>
           </React.Fragment>
         ) : (
           <React.Fragment>
@@ -34,7 +34,7 @@ function Navbar(props) {
             <a href="/">
               <li onClick={() => handleClick("articles")}>Proyectos</li>
             </a>
-            <li onClick={() => handleClick("talks")}>Videos</li>
+            <li onClick={() => handleClick("talks")}>articulos</li>
           </React.Fragment>
         )}
       </ul>

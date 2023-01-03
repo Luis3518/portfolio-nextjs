@@ -16,7 +16,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgb(11, 223, 209);
+  background-color: rgb(9, 175, 164);
 
   color: #fff;
   }
@@ -131,6 +131,8 @@ ul li:hover:after {
 ul h2 {
   margin: 0 30px;
   font-weight: 500;
+  color: rgb(9, 175, 164);
+
 }
 
 @media (max-width: 800px) {
@@ -198,7 +200,10 @@ ul h2 {
 }
 .experienceContainer h4 {
   text-align: center;
+  font-weight: normal;
+  line-height: 1.5;
   font-size: 32px;
+
 }
 .experienceContainer .experienceContentContainer {
   position: relative;
@@ -211,7 +216,7 @@ ul h2 {
   width: 100%;
   height: 2px;
   top: 100px;
-  background-color: rgb(11, 223, 209);
+  background-color: rgb(9, 175, 164);
   z-index: 1;
 }
 .experienceContainer .experienceContentContainer .verticalLine {
@@ -219,7 +224,7 @@ ul h2 {
   height: 500px;
   width: 2px;
   right: 172px;
-  background-color: rgb(11, 223, 209);
+  background-color:rgb(9, 175, 164);
   z-index: 1;
 }
 .experienceContainer .experienceContentContainer .secondLine {
@@ -227,7 +232,7 @@ ul h2 {
   width: 100%;
   height: 2px;
   top: 400px;
-  background-color: rgb(11, 223, 209);
+  background-color: rgb(9, 175, 164);
   z-index: 1;
 }
 @media (max-width: 800px) {
@@ -239,3 +244,161 @@ ul h2 {
   }
 
 }
+
+.link {
+  color: inherit;
+  text-decoration: none;
+  margin-bottom: 30px;
+  }
+  
+  .articleContainer {
+  max-width: 350px;
+  height: 320px;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 0 10px;
+  background-color: #fff;
+  }
+  
+  .articleContainer img {
+  object-fit: cover;
+  width: 100%;
+  height: 150px;
+  background-size: cover;
+  border-radius: 5px 5px 0 0;
+  }
+  
+  .articleContainer .content {
+  margin: 5px 20px 20px 20px;
+  }
+  
+  .articleContainer .content h5 {
+  font-size: 16px;
+  font-weight: normal;
+  }
+  
+  .articleContainer .content p {
+  line-height: 1.5;
+  font-size: 10px;
+
+  }
+
+  .articleContainer .hashtags p {
+    line-height: 1.5;
+    font-size: 12px;
+    margin: 5px 20px 20px 20px;
+    font-family: "Roboto Mono";
+    color: rgb(9, 175, 164); 
+    }
+  
+  @media (max-width: 800px) {
+  .articleContainer {
+  margin-bottom: 20px;
+  max-width: 100%;
+  width: 100%;
+  }
+  }
+
+  .articlesContainer {
+    max-width: 1200px;
+    margin: auto;
+    flex-wrap: wrap;
+    }
+    
+    .articlesContainer h4 {
+      text-align: center;
+      font-weight: normal;
+      line-height: 1.5;
+      font-size: 32px;
+    }
+    
+    .articlesContainer .articlesContentContainer {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    }
+    
+    @media (max-width: 800px) {
+    .articlesContainer {
+    width: 100%;
+    }
+    .articlesContainer .articlesContentContainer {
+    display: block;
+    }
+    }
+
+    .articuloContainer {
+      max-width: 350px;
+      height: 320px;
+      border-radius: 5px;
+      overflow: hidden;
+      margin: 0 10px;
+      background-color: #fff;
+      }
+      
+      .articuloContainer img {
+      object-fit: cover;
+      width: 100%;
+      height: 150px;
+      background-size: cover;
+      border-radius: 5px 5px 0 0;
+      }
+      
+      .articuloContainer .content {
+      margin: 5px 20px 20px 20px;
+      }
+      
+      .articuloContainer .content h5 {
+      font-size: 16px;
+      font-weight: normal;
+      }
+      
+      .articuloContainer .content p {
+      line-height: 1.5;
+      font-size: 10px;
+    
+      }
+    
+      .articuloContainer .hashtags p {
+        line-height: 1.5;
+        font-size: 12px;
+        margin: 5px 20px 20px 20px;
+        font-family: "Roboto Mono";
+        color: rgb(9, 175, 164); 
+        }
+      
+      @media (max-width: 800px) {
+      .articuloContainer {
+      margin-bottom: 20px;
+      max-width: 100%;
+      width: 100%;
+      }
+      }
+    
+      .articulosContainer {
+        max-width: 1200px;
+        margin: auto;
+        flex-wrap: wrap;
+        }
+        
+        .articulosContainer h4 {
+          text-align: center;
+          font-weight: normal;
+          line-height: 1.5;
+          font-size: 32px;
+        }
+        
+        .articulosContainer .articulosContentContainer {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        }
+        
+        @media (max-width: 800px) {
+        .articulosContainer {
+        width: 100%;
+        }
+        .articulosContainer .articulosContentContainer {
+        display: block;
+        }
+        }
