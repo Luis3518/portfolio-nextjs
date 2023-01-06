@@ -30,7 +30,7 @@ function Proyectos() {
       hashtags:
         '#burpsuite #shodan #spiderfoot #zap',
       img:
-        "https://courseit-statics.nyc3.digitaloceanspaces.com/blogStatics/nofoto-blog.png",
+        "prometeo.png",
       link:
         "https://github.com/Luis3518/Prometeo-desafio-PenTest"
     }

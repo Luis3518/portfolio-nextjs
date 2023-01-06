@@ -1,38 +1,45 @@
 [
     {
       "name": "Escuela tecnica 35",
-      "role": "Pasante",
-      "from": "Julio 2011",
+      "role": "Tecnico en computación",
+      "from": "Febrero 2008",
       "to": "Diciembre 2011",
-      "logo": "plansarmiento.png"
+      "logo": "et35.png"
     },
     {
       "name": "CCNA - fundacion proydesa",
-      "role": "Sysadmin - Integrador de sistemas",
-      "from": "Diciembre 2011",
-      "to": "Febrero 2013",
-      "logo": "near.png"
-    },
-    {
-      "name": "Profesorado de informatica",
-      "role": "Sysadmin - Técnico",
+      "role": "Cisco Certified Networking Associate",
       "from": "Febrero 2012",
-      "to": "Marzo 2018",
-      "logo": "conig.png"
+      "to": "Julio 2014",
+      "logo": "ccna.png"
     },
     {
-      "name": "Diplomatura seguridad de la informacion",
-      "role": "Desarrollador",
+      "name": "Copitec",
+      "role": "Infomatica forense",
+      "from": "Julio 2012",
+      "to": "Diciembre 2012",
+      "logo": "copitec.png"
+    },
+    {
+      "name": "Consudec",
+      "role": "Profesor de informatica",
+      "from": "Julio 2015",
+      "to": "Diciembre 2019",
+      "logo": "consudec.png"
+    },
+    {
+      "name": "Universidad tecnologica nacional",
+      "role": "Diplomatura seguridad de la información",
       "from": "Agosto 2021",
-      "to": "Actualidad",
-      "logo": "vuce.png"
+      "to": "Julio 2022",
+      "logo": "utn.png"
     },
     {
-      "name": "Licenciatura en tecnologias de la información",
-      "role": "Sysadmin - Técnico - Desarrollador",
+      "name": "Universidad de palermo",
+      "role": "Licenciatura tecnologia de la información",
       "from": "Marzo 2020",
       "to": "Actualidad",
-      "logo": "lubrirafael.png"
+      "logo": "up.png"
     }
   ]
   

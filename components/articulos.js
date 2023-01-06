@@ -4,35 +4,35 @@ import Articulo from "./articulo";
 function Articulos() {
   const articulos = [
     {
-      title: "Lubricentro Rafael - Registro de servicios",
+      title: "Fotos creadas con inteligencia artificial",
       desc:
-        "Prototipo de sistema para el registro de servicios",
+        "Entreno la IA con mis fotos",
         hashtags:
-        '#php #mysql #bootstrap #jquery #popper',
+        '#IA #Stable #Diffusion #Dreambooth',
       img:
-        "lubrirafael.png",
-      link: "https://luro35.000webhostapp.com/login.html"
+        "ia.png",
+      link: "https://www.linkedin.com/posts/luis-rodriguez3518_estuve-jugando-un-poco-con-stable-diffusion-activity-6995393697739608064-4DKu?"
     },
     {
-        title: "Lubricentro Rafael - Consulta de servicios",
+        title: "-",
         desc:
-          "Prototipo de sistema para la consulta de servicios realizados por parte del cliente",
+          "-",
           hashtags:
           '#php #mysql #bootstrap #jquery #popper',
         img:
-          "lubrirafael.png",
-        link: "http://luro35.000webhostapp.com"
+          ".png",
+        link: "#"
     },
     {
-      title: "Pentest prometeo",
+      title: "",
       desc:
-        'Reporte final del desafio pentest de prometeo, empresa de openbanking latinoamericana, realizado durante Junio de 2022.',
+        '-',
       hashtags:
-        '#burpsuite #shodan #spiderfoot #zap',
+        '#burpsuite¿',
       img:
-        "https://courseit-statics.nyc3.digitaloceanspaces.com/blogStatics/nofoto-blog.png",
+        "¿.png",
       link:
-        "https://github.com/Luis3518/Prometeo-desafio-PenTest"
+        "#"
     }
   ];
   return (

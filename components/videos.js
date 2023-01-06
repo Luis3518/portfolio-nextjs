@@ -4,35 +4,36 @@ import Video from "./video";
 function Videos() {
   const videos = [
     {
-      title: "Lubricentro Rafael - Registro de servicios",
+      title: "Tutorial cisco packet tracer",
       desc:
-        "Prototipo de sistema para el registro de servicios",
-        hashtags:
-        '#php #mysql #bootstrap #jquery #popper',
-      img:
-        "lubrirafael.png",
-      link: "https://luro35.000webhostapp.com/login.html"
-    },
-    {
-        title: "Lubricentro Rafael - Consulta de servicios",
-        desc:
-          "Prototipo de sistema para la consulta de servicios realizados por parte del cliente",
-          hashtags:
-          '#php #mysql #bootstrap #jquery #popper',
-        img:
-          "lubrirafael.png",
-        link: "http://luro35.000webhostapp.com"
-    },
-    {
-      title: "Pentest prometeo",
-      desc:
-        'Reporte final del desafio pentest de prometeo, empresa de openbanking latinoamericana, realizado durante Junio de 2022.',
+        'Como entrar a google desde cisco packet tracer - video utilizado en la materia redes',
       hashtags:
-        '#burpsuite #shodan #spiderfoot #zap',
+        '#cisco #paket #tracer #network #dhcp #dns #educacion',
       img:
-        "https://courseit-statics.nyc3.digitaloceanspaces.com/blogStatics/nofoto-blog.png",
+        "cptgoogle.png",
       link:
-        "https://github.com/Luis3518/Prometeo-desafio-PenTest"
+        "https://www.youtube.com/watch?v=TEOvPIw-QtA&t"
+    },
+    {
+      title: "Ethical Hacking - Informe ejecutivo . UTN",
+      desc:
+        "Ejercicio de simulacion realizado en el marco de la diplomatura en seguridad de la información de un reporte analisis de vulnerabilidades",
+        hashtags:
+        '#php #apache #google #dorking #password #ZAP',
+      img:
+        "diplo.png",
+      link: "https://www.youtube.com/watch?v=vNDF0cmGX0Y"
+    },
+    {
+      title: "Dispositivos intermedios",
+      desc:
+        'Diferencias entre: modem, router y switch - video utilizado en la materia redes',
+      hashtags:
+      '#modem #router #switch #network #educacion',
+      img:
+        "modemrouter.png",
+      link:
+        "https://youtu.be/gdmTT3zl1To"
     }
   ];
   return (

@@ -10,7 +10,7 @@ function Description() {
 <div className="contentContainer">
         <h1>Hola! soy Luis Rodriguez</h1>
         <h4>
-        Profesor de informática, especialista en seguridad informática y licenciatura en tecnología de la información en curso.
+        Profesor de informática, especialista en seguridad informática y en este momento cursando la licenciatura en tecnología de la información.
         Me considero un apasionado de todo lo relacionado con el mundo de la informática y las tecnologías disruptivas, entre ellas web3 e inteligencia artificial.
 Abierto a nuevos desafíos y aprendizajes de nuevas tecnologías.
 
