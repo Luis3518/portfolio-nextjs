@@ -1,13 +1,13 @@
 [
     {
-      "name": "Escuela tecnica 35",
-      "role": "Tecnico en computación",
+      "name": "Escuela Técnica 35 DE18",
+      "role": "Técnico en computación",
       "from": "Febrero 2008",
       "to": "Diciembre 2011",
       "logo": "et35.png"
     },
     {
-      "name": "CCNA - fundacion proydesa",
+      "name": "CCNA - Fundación Proydesa",
       "role": "Cisco Certified Networking Associate",
       "from": "Febrero 2012",
       "to": "Julio 2014",
@@ -21,25 +21,25 @@
       "logo": "copitec.png"
     },
     {
-      "name": "Consudec",
-      "role": "Profesor de informatica",
-      "from": "Julio 2015",
-      "to": "Diciembre 2019",
-      "logo": "consudec.png"
+      "name": "Universidad de Palermo",
+      "role": "Licenciatura en tecnología de la información",
+      "from": "Marzo 2023",
+      "to": "Actualidad",
+      "logo": "up.png"
     },
     {
-      "name": "Universidad tecnologica nacional",
+      "name": "Universidad Tecnológica Nacional",
       "role": "Diplomatura seguridad de la información",
       "from": "Agosto 2021",
       "to": "Julio 2022",
       "logo": "utn.png"
     },
     {
-      "name": "Universidad de palermo",
-      "role": "Licenciatura tecnologia de la información",
-      "from": "Marzo 2020",
-      "to": "Actualidad",
-      "logo": "up.png"
+      "name": "Consudec",
+      "role": "Profesor de informática",
+      "from": "Julio 2015",
+      "to": "Diciembre 2019",
+      "logo": "consudec.png"
     }
   ]
   

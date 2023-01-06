@@ -5,7 +5,7 @@ import AcademicoCard from "./academicocard";
 function Academico() {
   return (
     <div className="academicoContainer">
-      <h4>Academico</h4>
+      <h4>Académico</h4>
       <div className="academicoContentContainer">
         <div className="line" />
         <div className="verticalLine" />

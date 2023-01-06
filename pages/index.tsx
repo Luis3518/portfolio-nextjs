@@ -21,7 +21,7 @@ export default function Home() {
     <>
       <Head>
         <title>Porfolio</title>
-        <meta name="description" content="Porfolio Luis Rodriguez" />
+        <meta name="description" content="Portfolio Luis Rodriguez" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

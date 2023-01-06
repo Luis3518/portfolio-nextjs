@@ -16,9 +16,9 @@ function Navbar(props) {
       <ul>
         {props.samePage ? (
           <React.Fragment>
-            <li onClick={() => handleClick("description")}>Sobre mi</li>
-            <li onClick={() => handleClick("academico")}>Acedemico</li>
-            <li onClick={() => handleClick("articulos")}>Articulos</li>
+            <li onClick={() => handleClick("description")}>Sobre mí</li>
+            <li onClick={() => handleClick("academico")}>Académico</li>
+            <li onClick={() => handleClick("articulos")}>Artículos</li>
             <h2>LR</h2>
             <li onClick={() => handleClick("experience")}>Experiencia</li>
             <li onClick={() => handleClick("proyectos")}>Proyectos</li>
