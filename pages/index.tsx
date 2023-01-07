@@ -8,10 +8,11 @@ import Academico from "../components/academico"
 import Videos from "../components/videos"
 import Navbar from "../components/navbar"
 import * as Scroll from "react-scroll"
-
+import ReactGA from "react-ga4"
 
 const inter = Inter({ subsets: ['latin'] })
-
+ReactGA.initialize("G-CL7WG9F6TM");
+ReactGA.send("pageview");
 
 export default function Home() {
   return (
