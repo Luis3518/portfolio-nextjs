@@ -9,10 +9,13 @@ import Videos from "../components/videos"
 import Navbar from "../components/navbar"
 import * as Scroll from "react-scroll"
 import ReactGA from "react-ga4"
+import { inject } from '@vercel/analytics';
 
 const inter = Inter({ subsets: ['latin'] })
 ReactGA.initialize("G-CL7WG9F6TM");
 ReactGA.send("pageview");
+
+inject();
 
 export default function Home() {
   return (
