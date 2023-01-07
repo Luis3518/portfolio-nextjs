@@ -10,10 +10,7 @@ function Description() {
 <div className="contentContainer">
         <h1>Hola! Soy Luis Rodriguez</h1>
         <h4>
-        Profesor de informática, especialista en seguridad informática y en este momento cursando la Licenciatura en tecnología de la información.
-        Me considero un apasionado del mundo de la informática y las tecnologías disruptivas, entre ellas web3 e inteligencia artificial.
-Abierto a nuevos desafíos y aprendizajes de nuevas tecnologías.
-
+        Profesor de informática y especialista en seguridad informática, estoy constantemente buscando nuevas oportunidades para aprender y crecer en mi campo. Actualmente estoy cursando una licenciatura en tecnología de la información y me encanta estar al día con las últimas tendencias y herramientas en el mundo de la informática. Me gusta experimentar con nuevas tecnologías, especialmente en áreas como la ciberseguridad e inteligencia artificial.
         </h4>
         <div className="socialContainer">
           <a href="https://github.com/Luis3518/" target="_blank">

@@ -16,9 +16,9 @@ function Articulos() {
     {
         title: "Visualización de datos",
         desc:
-          "Analisis de datos a partir de chats de whatsapp",
+          "Analisis de datos con graficos visualmente atractivos a partir de chats de whatsapp",
           hashtags:
-          '#python #pandas #whatsapp #data',
+          '#python #pandas #matplotlib #wordcloud #whatsapp #data',
         img:
           "foto3.png",
         link: "https://www.linkedin.com/posts/luis-rodriguez3518_python-pandas-whatsapp-activity-7017259762534768640-yQ1g"
