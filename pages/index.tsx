@@ -6,15 +6,13 @@ import Proyectos from "../components/proyectos"
 import Articulos from "../components/articulos"
 import Academico from "../components/academico"
 import Videos from "../components/videos"
-
-
-
-
 import Navbar from "../components/navbar"
 import * as Scroll from "react-scroll"
-
+import ReactGA from 'react-ga';
 
 const inter = Inter({ subsets: ['latin'] })
+
+ReactGA.initialize('GTM-WCNLSHB');
 
 export default function Home() {
   return (
@@ -25,6 +23,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      ReactGA.pageview(window.location.pathname + window.location.search);
       <Navbar samePage={true} />
       <Scroll.Element name="description">
         <Description />

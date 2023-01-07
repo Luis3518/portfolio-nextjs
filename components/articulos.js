@@ -10,7 +10,7 @@ function Articulos() {
         hashtags:
         '#IA #Stable #Diffusion #Dreambooth',
       img:
-        "ia.png",
+        "IA.png",
       link: "https://www.linkedin.com/posts/luis-rodriguez3518_estuve-jugando-un-poco-con-stable-diffusion-activity-6995393697739608064-4DKu?"
     },
     {

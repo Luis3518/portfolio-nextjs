@@ -21,7 +21,7 @@ function Videos() {
         hashtags:
         '#php #apache #google #dorking #password #ZAP',
       img:
-        "diplo.png",
+        "https://raw.githubusercontent.com/Luis3518/portfolio-nextjs/main/public/diplo.PNG",
       link: "https://www.youtube.com/watch?v=vNDF0cmGX0Y"
     },
     {
