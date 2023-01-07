@@ -10,9 +10,10 @@ function Experience() {
         <div className="line" />
         <div className="verticalLine" />
         <div className="secondLine" />
-        {experience.map((experience, key) => {
+        {experience.map((experience, index) => {
           return (
             <ExperienceCard
+              key={index}
               name={experience.name}
               role={experience.role}
               from={experience.from}

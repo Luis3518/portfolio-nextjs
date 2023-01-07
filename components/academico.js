@@ -10,9 +10,10 @@ function Academico() {
         <div className="line" />
         <div className="verticalLine" />
         <div className="secondLine" />
-        {academico.map((academico, key) => {
+        {academico.map((academico, index) => {
           return (
             <AcademicoCard
+              key={index}
               name={academico.name}
               role={academico.role}
               from={academico.from}
