@@ -13,6 +13,8 @@ import ReactGA from 'react-ga';
 const inter = Inter({ subsets: ['latin'] })
 
 ReactGA.initialize('GTM-WCNLSHB');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 
 export default function Home() {
   return (
@@ -23,7 +25,6 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      ReactGA.pageview(window.location.pathname + window.location.search);
       <Navbar samePage={true} />
       <Scroll.Element name="description">
         <Description />
